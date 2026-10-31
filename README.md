@@ -1,17 +1,12 @@
 # Zomato-Landing-Page
 
-## Overview
-
-Zomato Landing Page
+A static Zomato-inspired landing page built from HTML, CSS, and image assets.
 
 ## Technology
 
-HTML, CSS
+- HTML
+- CSS
 
-## Repository contents
+## Run
 
-`assets`, `index.html`, `style.css`
-
-## Notes
-
-This README documents the repository using metadata and files visible in the repository. See the source tree for the current implementation.
+Open `index.html` in a browser or serve the repository with any static web server.
